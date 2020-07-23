@@ -26,7 +26,6 @@ for value in array {
 ```
 - 插入操作，也是通过一张图来看懂怎么操作
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200514151540355.png)
-代码
 
 ```objectivec
     //MARK: - 单链表插入节点
@@ -64,7 +63,6 @@ for value in array {
 ```
 - 删除节点，可分为根据值和根据序号来删除。还是是通过一张图来看懂怎么操作
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200514152002807.png)
-代码
 
 ```objectivec
 //MARK: - 单链表根据值删除节点
